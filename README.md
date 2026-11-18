@@ -61,9 +61,11 @@ Chinese · Economics · Anthropology · Political Science · Psychology · Human
 
 ### 🤝 Let's Connect
 
-📧 **Email:** [nowshin.zahan@g.bracu.ac.bd](mailto:nowshin.zahan@g.bracu.ac.bd)
+**Email:** [nowshin.zahan@g.bracu.ac.bd](mailto:nowshin.zahan@g.bracu.ac.bd)
 
-🐙 **GitHub:** [nowshinzahan-cpu](https://github.com/nowshinzahan-cpu)
+**GitHub:** [nowshin-zahan](https://github.com/nowshinzahan-cpu)
+
+**Linkedin:** [Nowshin Zahan](https://www.linkedin.com/in/nowshin-zahan-84362227a/)
 
 📍 **Location:** Dhaka, Bangladesh
 
